@@ -17,7 +17,7 @@ To design and develop predictive machine learning that can identify potential lo
 
 #3. Train/Test Split
 
-	•	Split the dataset into training and testing sets (e.g., 70/30)
+	•	Split the dataset into training and testing sets (e.g., 80/20)
 	•	Ensure the split is performed before applying SMOTE to avoid data leakage
 
 #4. SMOTE on Training Set
